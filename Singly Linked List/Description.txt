@@ -1,0 +1,10 @@
+Singly Linked List project developed using C Language on Code::Blocks.
+
+linked_list.h has the node declaration to data types or add more elements and it has the function prototypes
+-make sure if you add elements to node that you add them in the functions prototypes in .h and .c
+
+linked_list.c has the functions implementation any editing that happen in .h file must be added to the .c file as well so no errors occur.
+
+main.c is the has the main function and any test cases to be added to the list.
+
+WHEN CREATING A PROJECT MAKE SURE TO ADD ALL THREE FILE (linked_list.h / linked_list.c / main.c) IN THE PROJECT TO AVOID ERRORS.
