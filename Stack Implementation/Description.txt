@@ -1,0 +1,16 @@
+Stack Data Structure Implementation developed on Code::Blocks using C language
+
+stack.h
+- includes functions prototypes.
+- edit "MAXSIZE" for buffer maximum size.
+- change type of entry if you want to use different type.
+- make sure any changes in stack.h should be changed accordingly in stack.c to avoid errors
+
+stack.c
+- includes functions implementations.
+- any changes in stack.h should also be changed in stack.c
+
+main.c
+- it has some test cases you can add / change / remove to suit your project.
+
+WHEN CREATING A PROJECT MAKE SURE TO ADD ALL THREE FILES (stack.h / stack.c / main.c) IN THE PROJECT TO AVOID ERRORS.
